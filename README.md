@@ -52,8 +52,8 @@ The project is organized as follows:
 connect-four-java/
 ├── src/
 │   ├── AbstractStrategyGame.java   # Abstract base class for strategy games
-│   ├── ConnectFour.java            # Implements Connect Four game logic
-│   └── Client.java                 # Contains main() method to play the game
+│   ├── Client.java                 # Contains main() method to play the game
+│   └── ConnectFour.java            # Implements Connect Four game logic
 ├── README.md                       # Project overview and instructions
 └── .gitignore                      # Ignore compiled files and IDE artifacts
 

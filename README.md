@@ -37,7 +37,7 @@ This hierarchy allows easy extension for other strategy games in the future whil
 ## 🔗 Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/amberli/connect-four-java.git
+git clone https://github.com/AmberErinLi/connect-four-java.git
 ```
 2. Open the project in your IDE (Visual Studio Code, IntelliJ, etc.).
 3. Run the Client class to play Connect Four in the console.
